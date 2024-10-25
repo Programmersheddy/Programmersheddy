@@ -8,7 +8,7 @@
 🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q)<br/>
 💭 Currently, the Co-Founder of [RealAI Solutions](https://web.facebook.com/profile.php?id=61563043965025))!<br/>
 
-###💻 Tech Stack
+###💻 Tech Stack !<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -21,8 +21,8 @@
 
 
 
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Shadrach's github stats](https://github-readme-stats.vercel.app/api?username=programmersheddy&count_private=true&show_icons=true&theme=radical&se)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Shadrach's github stats](https://github-readme-stats.vercel.app/api?username=programmersheddy&count_private=true&show_icons=true&theme=radical&se)](https://github.com/anuraghazra/github-readme-stats)
