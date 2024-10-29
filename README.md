@@ -2,11 +2,13 @@
 
 ### Hi, I'm Shadrach!
 
-👩🏻‍💻 [AI/ML Engineer](https://drive.google.com/drive/folders/13jnYtN9vsd8OsusZlQXE4cBrVyTIVzBm?usp=sharing) , Full-Stack Web Developer and also a [Master Digital Marketer](https://drive.google.com/drive/folders/1DA24GNMYA_lMGcjZKU1MCh9a4Zc5CIET?usp=sharing) sharing about my journey and learnings in tech, Digital Marketing & AI<br/>
-👩🏻‍🎓 Studied [Mass Communication] at the [Kwara State University, Nigeria](https://kwasu.edu.ng/) <br/>
-🌷 7yrs+ of Trading experience, later became a Founder and CEO of a Forex Training Platform= [Bluepipx Innovations](https://drive.google.com/drive/folders/1dHf4KCvUTKHnjHizONWpJBMLGtDZwDDA?usp=sharing)<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q)<br/>
-💭 Currently, the Co-Founder of [RealAI Solutions](https://web.facebook.com/profile.php?id=61563043965025))!<br/>
+👩🏻‍💻 I'm a [AI/ML Engineer](https://drive.google.com/drive/folders/13jnYtN9vsd8OsusZlQXE4cBrVyTIVzBm?usp=sharing) , Full-Stack Web Developer and also a [Master Digital Marketer](https://drive.google.com/drive/folders/1DA24GNMYA_lMGcjZKU1MCh9a4Zc5CIET?usp=sharing) sharing about my journey and learnings in AI, Tech & Digital Marketing.<br/>
+👩🏻‍🎓 Studied [Mass Communication](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1) at the [Kwara State University, Nigeria](https://kwasu.edu.ng/). <br/>
+🌍 Master Affiliate Marketer for [Deriv](https://track.deriv.com/_IysaSd06HgNB4VdSfJsOp2Nd7ZgqdRLk/19/) since 2020-Till Date. <br/>
+🌷 7yrs+ of Trading experience, later became a Founder and CEO of a Forex Training Platform in my Final Year then in my University days= [Bluepipx Innovations](https://drive.google.com/drive/folders/1dHf4KCvUTKHnjHizONWpJBMLGtDZwDDA?usp=sharing) [2020-2023 Defunct]. <br/>.
+😎 My Active Trading Platforms [Daily Finance Blog_EU](https://dailyfinanceblogeu.my.canva.site/) [For EU Traders Only] & [Daily Finance Blog](https://linktr.ee/Dailyfinanceblog) [For Other Traders]. <br/>
+🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1)!<br/>
+💭 Currently, the Co-Founder & CEO of [RealAI Solutions](https://web.facebook.com/profile.php?id=61563043965025))!<br/>
 
 ###💻 Tech Stack !<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
