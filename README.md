@@ -6,8 +6,8 @@
 ✨ Studied [Mass Communication](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1) at the [Kwara State University, Nigeria](https://kwasu.edu.ng/). <br/>
 🌍 Master Affiliate Marketer[Independent Contractor] for The Best Broker of all Time,[Deriv](https://track.deriv.com/_IysaSd06HgNB4VdSfJsOp2Nd7ZgqdRLk/19/)  since the Year 2020-Till Date. <br/>
 ✈ 7yrs+ of Trading experience, later became a Founder and CEO of a Forex Training Platform in my Final Year then in my University days= [Bluepipx Innovations](https://drive.google.com/drive/folders/1dHf4KCvUTKHnjHizONWpJBMLGtDZwDDA?usp=sharing) [2020-2023 Defunct]. <br/>
-😎 My Current Active Trading Platforms are [Daily Finance Blog](https://linktr.ee/Dailyfinanceblog) [For Traders]. <br/>
-🎯Anyone can join my Current Trading Platforms for free; in my platforms. You get Free High-Quality Trading Tutorials,Mentorship and Signals. <br/>
+😎 My Current Active Trading Platform is [Daily Finance Blog](https://linktr.ee/Dailyfinanceblog) [For Traders]. <br/>
+🎯Anyone can join my Current Trading Platform for free; on my platform. You get Free High-Quality Trading Tutorials,Mentorship and Signals. <br/>
 🎨 Making videos about Trading, AI, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1). <br/>
 💭 Currently, the Co-Founder & CEO of [RealAI Solutions](https://web.facebook.com/profile.php?id=61563043965025). <br/>
 
