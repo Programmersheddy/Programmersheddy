@@ -11,6 +11,7 @@
 🎨 Making videos about Trading, AI, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1). <br/>
 💭 Currently, the Co-Founder & CEO of [RealAI Solutions](https://linktr.ee/realai_solutions). <br/>
 
+***
 
 ###💻 TECH STACKS !<br/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,9 +57,10 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-
+***
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Shadrach's github stats](https://github-readme-stats.vercel.app/api?username=programmersheddy&count_private=true&show_icons=true&theme=radical&se)](https://github.com/anuraghazra/github-readme-stats)
 
+***
 ![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
