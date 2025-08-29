@@ -9,7 +9,7 @@
 😎 My Current Active Trading Platform is [Daily Finance Blog](https://linktr.ee/Dailyfinanceblog) [For Traders]. <br/>
 🎯Anyone can join my Current Trading Platform for free; on my platform. You get Free High-Quality Trading Tutorials,Mentorship and Signals. <br/>
 🎨 Making videos about Trading, AI, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1). <br/>
-💭 Currently, the Co-Founder & CEO of [RealAI Solutions](https://web.facebook.com/profile.php?id=61563043965025). <br/>
+💭 Currently, the Co-Founder & CEO of [RealAI Solutions](https://linktr.ee/realai_solutions). <br/>
 
 
 ###💻 TECH STACKS !<br/>
