@@ -2,17 +2,21 @@
 
 ### Hi, I'm Shadrach!
 
-😎 I'm a [AI/ML Engineer](https://drive.google.com/drive/folders/13jnYtN9vsd8OsusZlQXE4cBrVyTIVzBm?usp=sharing) , Full-Stack Web Developer, [Seasoned Trader](https://track.deriv.com/_IysaSd06HgNB4VdSfJsOp2Nd7ZgqdRLk/19/) and finally, a [Master Digital Marketer](https://drive.google.com/drive/folders/1DA24GNMYA_lMGcjZKU1MCh9a4Zc5CIET?usp=sharing) sharing about my journey and learning in AI, Trading, Tech & Digital Marketing.<br/>
+😎 I'm a [AI/ML Engineer](https://drive.google.com/drive/folders/13jnYtN9vsd8OsusZlQXE4cBrVyTIVzBm?usp=sharing) , [Full-Stack Web Developer](https://linktr.ee/realai_solutions), [Seasoned Trader](https://track.deriv.com/_IysaSd06HgNB4VdSfJsOp2Nd7ZgqdRLk/19/) and finally, a [Master Digital Marketer](https://drive.google.com/drive/folders/1DA24GNMYA_lMGcjZKU1MCh9a4Zc5CIET?usp=sharing) sharing about my journey and learning in AI, Trading, Tech & Digital Marketing.<br/>
 
-✨ Studied [Mass Communication](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1) at the [Kwara State University, Nigeria](https://kwasu.edu.ng/). <br/>
+✨[AWS 2024 AI/ML Enginerring Scolarship Best Score](https://x.com/EmemShadrach/status/1844585870923304975), Currently, i'm the Founder & CEO of [RealAI Solutions](https://linktr.ee/realai_solutions).  <br/>
+
+🌍 Studied Mass Communication at the [Kwara State University, Nigeria](https://kwasu.edu.ng/). <br/>
 
 🌍 Master Affiliate Marketer[Independent Contractor] for The Best Broker of all Time,[Deriv](https://track.deriv.com/_IysaSd06HgNB4VdSfJsOp2Nd7ZgqdRLk/19/)  since the Year 2020-Till Date. <br/>
 
-✈ 7yrs+ of Trading experience, later became a Founder and CEO of a Forex Training Platform in my Final Year then in my University days= [Bluepipx Innovations](https://drive.google.com/drive/folders/1dHf4KCvUTKHnjHizONWpJBMLGtDZwDDA?usp=sharing) [2020-2023 Defunct]. <br/>
+✈ 7yrs+ of Trading experience as a Trading Portolio Manager, later became a Founder and CEO of a Forex Training Platform in my Final Year then in my University days= [Bluepipx Innovations](https://drive.google.com/drive/folders/1dHf4KCvUTKHnjHizONWpJBMLGtDZwDDA?usp=sharing) [2020-2023 Defunct]. <br/>
 
-💭 Well, i stopped trading comercially/mainsteam becasue it's a boom and crash business(means today might boom, and tommorow might be your saddest day trading, it's hard to be conisistent). so, i transitioned into AI & Software developement to keep my head upright and safe  <br/>
+💭 Well, i stopped trading comercially/mainsteam. i only trade for myself whenever i see a good market chart with 90% or more accuracy, make profits to pay bills and bootstrap my Startup(This is my biggest Dream ever).  <br/>
 
-💯 Currently, i'm the Founder & CEO of [RealAI Solutions](https://linktr.ee/realai_solutions). <br/>
+📊 Trading is sweet but it has its quirks(downsides too). Yes, becasue it's a boom and crash business(means today might boom, and tommorow might be your saddest day trading, it's hard to be conisistent). so, i transitioned into AI & Software developement to keep my head upright and safe. <br/>
+
+💯 The more reason i love AI & Software Development is that this career path is "Solution-Based' meaning it's a problem-solving career pathway❤️.  <br/>
 
 🎨 Making videos about Trading, AI, tech, and productivity on [YouTube](https://www.youtube.com/channel/UC014Bb9YTJfpLS9ms87R55Q?sub_confirmation=1). <br/>
 
